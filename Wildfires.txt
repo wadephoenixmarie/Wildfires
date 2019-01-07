@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wildfires</title>
+<link type="text/css" rel="stylesheet" href="css/my-first-stylesheet.css"/>
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="Wildfires.html">Wildfires</a></li>
+<li><a href="Colorado wildfires.html">Colorado Wildfires</a></li>
+<li><a href="How to Prevent Wildfires in Colorado.html">How to Prevent Wildfires in Colorado</a></li>
+<li><a href="How to Stay Safe.html">How to Stay Safe</a></li>
+<li><a href="Who to Contact.html">Who to Contact</a></li>
+<li><a href="Need to know list.html">Need to know List</a></li>
+</ul>
+</nav>
+<h1>What Are Wildfires</h1>
+<p>Wildfires are very dangerous.  They can start from anything.  Lightning, cigarette butts that are still lighted, and a firepit not under control can all start a wildfire.  There are many more things that can start a wildfire too.  Most wildfires are man-made, but many wildfires have started naturally.  There is not a specific time when a wildfire will happen.  It is unpredictible.  They start when a spark catches onto something- usually a piece of dry or dead vegitation.  That spark soon grows bigger, and it continues to grow.
+It catches on trees and grass, and the spark continues on.  Soon, the fire is like a giant monster reaching a disastrous amount of height and altitude.</p>
+<iframe width="400" height="400" src="https://google.org/crisismap/us-wildfires?hl=en&llbox=42.57%2C31.5%2C-103.24%2C-133.25&t=TERRAIN&layers=5%2C2%2C16%2C17&embedded=true" style="border: 1px solid #ccc"></iframe>
+<p>It can soon swallow a whole forest.  It takes a lot of time to stop the huge fire.  By the time it's through, it probably would have destroyed 100s of pieces of vegitation.  Tons of animals would probably be killed.  A couple hundred acres could be destroyed.  This is what a wildfire can do.  The largest wildfire ever was the Meneocino fire in Calafornia.  It started from a campire.  It grew and grew.  It destroyed 459,123 acres of land (717 miles).  In the process, it killed 88 people.   There are many ways to prevent this dangerous disaster.  This website will walk you through the information about wildfires, Colorado wildfires, how to prevent them, who you can contact, and how to stay safe in case you are in a wildfire.</p>
+</body>
+</html>  
