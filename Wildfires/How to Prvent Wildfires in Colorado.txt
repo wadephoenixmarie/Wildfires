@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>How to Prevent Wildfires in Colorado</title>
+<link type="text/css" rel="stylesheet" href="css/my-first-stylesheet.css"/>
+</html>
+<body>
+<nav>
+<ul>
+<li><a href="Wildfires.html">Wildfires</a></li>
+<li><a href="Colorado wildfires.html">Colorado Wildfires</a></li>
+<li><a href="How to Prevent Wildfires in Colorado.html">How to Prevent Wildfires in Colorado</a></li>
+<li><a href="How to Stay Safe.html">How to Stay Safe</a></li>
+<li><a href="Who to Contact.html">Who to Contact</a></li>
+<li><a href="Need to know list.html">Need to know List</a></li>
+</ul>
+</nav>
+<h1>How to Not Start a Wildfire</h1>
+<P>There are many ways we can prevent wildfires.  Some ways are:<p>
+<ul>
+<li>Don't light a fire in dry areas.</li>
+<li>Light a fire in a camping pit or you can make one.</li>
+<li>Wildfires can start from lightning, lighted cigarette butts, and more. </li>
+<li>If you are in a forint camping do not light any thing on fire unless it is in a campfire pit.
+</li>
+<li>If you smoke, it is best to move away from trees as much as possible.
+</li>
+<li>When you are camping, make sure to put your fire all the way out.
+</ul>
+<p>This deadly disaster can be prevented from these steps above.  Colorado is a really dry state so it causes more wildfires.  You can't start a camp fire in really dry areas or it might start a wildfire.  If you wan't to start a camp fire these things below will improve the amount of water in the grass.
+<ul>
+<li>Water dry areas twice a weak</li>
+<li>Before you start a campfire, it is best to water the vegitation around it.</li>
+<li>Keep a bucket of water near by</li>
+<li>Clear all of the vegitation from the campfire before you leave the campsite.</li>
+</ul>
+<p>There are more things that you can do in order to prevent a wildfire.  If you scroll down below, there are people that you can contact to prevent a wildfire.  If you do these things than there will be a less chance for a wildfire starting.  The small things help a lot.</p>
+</body>
+</html>
+
+
